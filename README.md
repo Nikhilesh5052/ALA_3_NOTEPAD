@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # adf_ala_3
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ALA_3_NOTEPAD
+>>>>>>> 4803a14b8704737ab94f2a2371f3e5946ba6ad46
