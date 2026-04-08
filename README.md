@@ -65,13 +65,12 @@ This project is a Flutter-based Notes Application that demonstrates local data s
 ---
 
 ## 📸 Screenshots (Add here)
-- Home Screen UI
-- Add Note Screen
-- Edit Note Screen
-- Delete & Undo Feature
-- Recycle Bin Screen
-- Dark Mode UI
-- Sorting / View Options
+<img width="465" height="870" alt="image" src="https://github.com/user-attachments/assets/2ea236d0-3625-4f5f-976e-2cc3627d78cc" />
+<img width="490" height="872" alt="image" src="https://github.com/user-attachments/assets/c325c0e1-8bdd-428d-934c-5b719e947a10" />
+<img width="459" height="887" alt="Screenshot 2026-04-08 143556" src="https://github.com/user-attachments/assets/1726688c-310f-4a31-9fdb-8f32ae126d21" />
+<img width="446" height="881" alt="Screenshot 2026-04-08 143542" src="https://github.com/user-attachments/assets/fcfd95c0-25d1-4af9-9364-91c4ad725bfe" />
+
+
 
 ---
 
@@ -79,6 +78,7 @@ This project is a Flutter-based Notes Application that demonstrates local data s
 - Google Drive link containing:
   - Screen recording of app working
   - Screenshots of all features
+  - https://drive.google.com/drive/folders/1f5bY-yEgxu9bGJ3fQCRXPaRY8jDdkKvn?usp=drive_link
 
 (Add your drive link here)
 
