@@ -64,7 +64,7 @@ This project is a Flutter-based Notes Application that demonstrates local data s
 
 ---
 
-## 📸 Screenshots (Add here)
+## 📸 Screenshots
 <img width="465" height="870" alt="image" src="https://github.com/user-attachments/assets/2ea236d0-3625-4f5f-976e-2cc3627d78cc" />
 <img width="490" height="872" alt="image" src="https://github.com/user-attachments/assets/c325c0e1-8bdd-428d-934c-5b719e947a10" />
 <img width="459" height="887" alt="Screenshot 2026-04-08 143556" src="https://github.com/user-attachments/assets/1726688c-310f-4a31-9fdb-8f32ae126d21" />
