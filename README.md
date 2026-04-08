@@ -80,7 +80,6 @@ This project is a Flutter-based Notes Application that demonstrates local data s
   - Screenshots of all features
   - https://drive.google.com/drive/folders/1f5bY-yEgxu9bGJ3fQCRXPaRY8jDdkKvn?usp=drive_link
 
-(Add your drive link here)
 
 ---
 
